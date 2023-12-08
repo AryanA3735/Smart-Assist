@@ -31,10 +31,3 @@ Certainly! Here's a refined version of the provided information with headings fo
 - **Backend:** Flask
 - **Frontend:** HTML, CSS, JavaScript
 
-
-8. **Enjoy:**
-   - The website will start running locally, providing access to various features.
-
----
-
-Feel free to replace `[repository_link]` with the actual link to the Smart-Assist GitHub repository.
