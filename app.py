@@ -39,7 +39,7 @@ def text_summary(text):
 
 @app.route("/")
 def landing():
-    return render_template('home.html', text="Akshar Betichod")
+    return render_template('home.html', text="Aryan")
 
 @app.route("/home", methods = ['GET'])
 def home():
